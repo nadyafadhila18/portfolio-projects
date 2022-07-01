@@ -6,7 +6,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## 1. Animal Detection Project
 
-This was my Final Capstone Project at Bangkit Academy 2020, we made Endangered Animal Detection Mobile Application for prevent the animal from extinc. In this project
+This was my Final Capstone Project at Bangkit Academy 2022, we made Endangered Animal Detection Mobile Application for prevent the animal from extinc. In this project
 my contributions was collected and cleaned the dataset, making model and deploying the Machine Learning model to the Cloud Computing for the API. For documentation full of this project you can click this [LINK](https://github.com/C22-PS088)
 
 ## 2. Car Sales Pivot
