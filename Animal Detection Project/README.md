@@ -8,7 +8,7 @@ We got the result :
 
 
 <p align="center">
-  <img src="./result/graph1.png" />
+  <img width="400" src="./result/graph1.png" />
   <br/>
-  <img src="./result/resullt1.png" />
+  <img width="400" src="./result/resullt1.png" />
 </p>
