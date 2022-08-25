@@ -1,4 +1,4 @@
-# Machine-Learning
+# Sa Lindungi: Endangered Animal Image Detection
 
 In this project, we make a model to detection an images to know what Endangered animal is shown by user. This datasets captired originally from me at Batu Secret Zoo. This model contain a transfer learning model named Xception that we use to improving our accuracy by using a fine tuning method.
 
